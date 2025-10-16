@@ -1,0 +1,81 @@
+body{ 
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color:#E6C9C4;
+    color:rgb(15, 17, 8);
+}
+
+header {
+
+    background-color: rgb(234, 204, 166);
+    color: black;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.section-about {
+    font-family: fantasy;
+    color: black;
+    padding: 20px;
+    border-color: black;
+    border:2px solid black;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.section-projects {
+    font-family: fantasy;
+    color: black;
+    padding: 20px;
+    border-color: black;
+    border:2px solid black;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.section-skills{
+    font-family: fantasy;
+    color: black;
+    padding: 20px;
+    border-color: black;
+    border:2px solid black;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.section-education {
+    font-family: fantasy;
+    color: black;
+    padding: 20px;
+    border-color: black;
+    border:2px solid black;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.section-contact {
+    font-family: fantasy;
+    color: black;
+    padding: 20px;
+    border-color: black;
+    border:2px solid black;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.section-content{
+    font-family: monospace;
+    font-size: medium;
+    line-height: 1.6;
+    color: black;
+}
+.a {
+    color: blue;
+    text-decoration: wavy;
+}
+
+a:hover {
+    text-decoration:underline;
+}
