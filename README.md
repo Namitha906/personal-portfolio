@@ -65,7 +65,7 @@ Currently not deployed. Please run the project locally using the steps above.
 
 ## 📬 Contact
 
-- Email: namithanreddy906@gmail.com  
+- Email: savitrinamitha91@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/namitha-n-reddy-77365a366/  
 - GitHub: https://github.com/Namitha906  
 
